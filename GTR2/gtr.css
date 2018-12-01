@@ -1,0 +1,310 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#nav1{
+	background-color: #eeeeee;
+	font-size: 12px; 
+	width: 1500px;
+	margin-left: 140px;
+		
+}
+#letras1{
+	color: #4c4c4c;
+	font-size: 12px;
+}
+#logo{
+	width: 100px;
+	height: 120px;
+	margin-left: 300px;
+}
+#n{
+	font-size: 30px;
+	color: #343434;
+	font-family: Helvetica,fantasy;
+	font-weight: bold;
+	color: black;
+	padding-left: 150px;
+	
+}
+#nav2{
+	padding-left: 490px;
+	width: 1500px;
+	height: 120px;
+
+}
+#nav3{
+	width: 1600px;
+}
+
+#veiculos{
+	background-color: white;
+	color: #c3002f;
+	font-family: "Nissan Bold",Verdana,Arial,sans-serif;
+	font-size: 18px;
+	border-color: white;
+	font-weight: 800;
+
+
+}
+#bla{
+	background-color: #343434;
+}
+#serviços{
+	color: black;
+	font-size: 18px;
+	background-color: white;
+	font-family: "Nissan Bold",Verdana,Arial,sans-serif;
+	border-color: white;
+	font-weight: 800;
+}
+#p{
+	font-family: Nissan Bold,Verdana,Arial,sans-serif; 
+	color: #ffffff;
+	font-size: 15px;
+}
+#search{
+	font-size: 14px;
+	margin-left: 270px;
+	color: black;
+
+}
+#busca{
+	color: grey;
+}
+#nav4{
+	background-color: #4c4c4c;
+	width: 1500px;
+	margin-left: 140px;
+	height: 60px;
+}
+#N{
+	padding-right: 530px;
+	color: white;
+	font-size: 18px;
+	color: white;
+}
+#bar{
+	width: 92px;
+	height: 5px;
+	margin-left: 20px;
+	margin-bottom: 100px;
+	color: #c3002f;
+}
+#casete{
+	margin-right: 200px;
+}
+#letra{
+	font-size: 14px;
+	font-family: "Nissan Bold",Verdana,Arial,sans-serif;
+	color: #fbfbfb;
+}
+#espaco{
+	padding-right: 100px;
+}
+
+
+div.cores{
+	width: 1500px;
+	margin-left: 160px;
+}
+div.escrita{
+	padding-left: 150px;
+	padding-top: 50px;
+}
+#carro{
+	height: 420px;
+	width: 800px;
+	margin-left: 110px;
+}
+#espa{
+	margin-left: 0px;
+
+}
+#espar{
+	margin-left: 180px;
+}
+#trampo{
+	border-radius: 100%;
+	height: 30px;
+	display: inline;
+}
+#botao{
+	padding-left: 160px;
+	padding-top: 40px;
+
+}
+.btn-danger{
+	background-color: #c3002f;
+}
+#ca{
+	padding-left: 160px;
+	padding-top: 50px;
+	width: 1350px;
+}
+#merda{
+	width: 1500px;
+	margin-left: 300px;
+}
+div.video{	
+	color: grey;
+	background-image: url('https://www.nissan-cdn.net/content/dam/Nissan/global/vehicles/gt-r/r35/uslhd/2_minor_change/overview/17TDIuslhd_GTRHelios018.jpg.ximg.l_12_m.smart.jpg');
+	width: 1150px;
+	height: 600px;
+}
+#play{
+	margin-left: 545px;
+	margin-top: 250px;
+	background-color: white;
+	opacity: 0.5;
+	border-radius: 100%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+#tamanhoc{
+	width: 1500px;
+	margin-left: 300px;
+}
+#linha{
+	width: 1500px;
+	margin-left: 140px;
+
+}
+#barrinha{
+	width: 70px;
+	height: 5px;
+	background-color: red;
+}
+#frase{
+	width: 960px;
+}
+#img2{
+	width: 1450px;
+	padding-left: 0px;
+}
+
+#frase1{
+	width: 970px;
+}
+#img3{
+	width: 1500px;
+	margin-left: 140px;
+}
+#linha2{
+	width: 1200px;
+}
+#a{
+	width: 400px;
+	margin-left: 60px;
+}
+#tamanhod{
+	width: 1500px;
+	margin-left: 240px;
+}
+div.escrita2{
+	width: 370px;
+	margin-left: 100px;
+}
+#botao2{
+	margin-left: 85px;
+	margin-top: 70px;
+}
+#img4{
+	margin-left: 10px;
+}
+#re{
+	margin-top: 30px;
+}
+#ta{
+	width: 350px;
+}
+#casete{
+	width: 1200px;
+	margin-left: 300px;
+}
+#botao3{
+	margin-left: 10px;
+}
+
+div.video2{	
+	color: grey;
+	background-image: url('https://www.nissan-cdn.net/content/dam/Nissan/global/vehicles/gt-r/r35/eulhd/2_minor_change/overview/17TDIeulhd_GTRHelios032.jpg.ximg.l_12_m.smart.jpg');
+	width: 1200px;
+	height: 600px;
+}
+div.fundoca{
+	background-color: #E6E6E6;
+	width: 1500px;
+	height: 400px;
+	margin-left: 140px;
+}
+#carrosel{
+	margin-left: 200px;
+	
+
+
+}
+#lang{
+	margin-left: 160px; 
+	
+}
+div.bah{
+	width: 1500px;
+	margin-left: 310px;
+}
+#linha3{
+	width: 1170px;
+}
+#pipiu{
+	margin-right: 180px;
+	margin-top: 23px;
+	color: #00b9e4;
+}
+#linha{
+	width: 362px;
+}
+#quadradin{
+	width: 370px;
+}
+#slde{
+	margin-top: 100px;
+	margin-left:  80px;
+}
+#sldd{
+	margin-top: 100px;
+	margin-right: 80px;
+}
+#caixat{
+	width: 500px;
+	
+}
+#caixatt{
+	width: 500px;
+	font-size: 16px;
+}
+#botao4{
+	margin-left: 480px;
+	margin-top: 30px;
+
+}
+div.footer1{
+	width: 1500px;
+	height: 400px;
+	margin-left: 200px;
+	background-color: black; 
+}
+div.footer2{
+	width: 1500px;
+	height: 60px;
+	margin-left: 200px;
+	background-color: #343434;
+}
+div.footer3{
+	width: 1500px;
+	height: 350px;
+	margin-left: 200px;
+	background-color: black;
+}
